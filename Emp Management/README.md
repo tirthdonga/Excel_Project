@@ -449,7 +449,7 @@ Provides dynamic two-function lookup functionality.
 
 <div align="center">
 
-**Tirth Donga**
+# Tirth Donga
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tirth_Donga-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tirthdonga)
 
