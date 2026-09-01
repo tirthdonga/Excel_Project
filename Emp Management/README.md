@@ -135,6 +135,10 @@ The **Student** worksheet contains student IDs, names, dates of birth, Math and 
 - Rank students based on scores
 - Filter students based on performance
 
+## Output
+
+<img src="images/std.png">
+
 ---
 
 ## 💰 Sales Data Worksheet
@@ -152,6 +156,10 @@ The **Sales Data** worksheet contains sales records with region, product, produc
 - Create dynamic references using INDIRECT
 - Create dynamic sales ranges using OFFSET
 
+## Output
+
+<img src="images/sale.png">
+
 ---
 
 ## 👨‍💼 Employee Data Worksheet
@@ -168,6 +176,10 @@ The **Employee Data** worksheet contains employee IDs, names, departments, salar
 - Round salaries
 - Calculate ceiling salary values
 - Calculate floor salary values
+
+## Output:-
+
+<img src="images/Emp.png">
 
 ---
 
