@@ -137,7 +137,7 @@ The **Student** worksheet contains student IDs, names, dates of birth, Math and 
 
 ## Output
 
-<img src="images/std.png">
+<img src="Images/std.png">
 
 ---
 
@@ -158,7 +158,7 @@ The **Sales Data** worksheet contains sales records with region, product, produc
 
 ## Output
 
-<img src="images/sale.png">
+<img src="Images/sale.png">
 
 ---
 
@@ -179,7 +179,7 @@ The **Employee Data** worksheet contains employee IDs, names, departments, salar
 
 ## Output:-
 
-<img src="images/Emp.png">
+<img src="Images/Emp.png">
 
 ---
 
